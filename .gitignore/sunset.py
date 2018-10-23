@@ -23,7 +23,7 @@ def draw():
     
     noStroke()
     fill(255,255,0)
-    ellipse(x, height2, 50, 50)
+    ellipse(x, height2, 100, 100)
     
     fill(255, 255, 255)
     ellipse(x2, height/2, 50, 50)
